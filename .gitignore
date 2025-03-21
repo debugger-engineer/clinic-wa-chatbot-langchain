@@ -49,3 +49,6 @@ htmlcov/
 dev-files/
 app-checkpoint-evolutionapi.py
 Clinics_WA.json
+
+# Migration Plan
+MIGRATION_PLAN.md
